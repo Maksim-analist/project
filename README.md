@@ -7,7 +7,7 @@
 3: В данной работе выгрузили данные из ClickHouse в Jypyterhub и выполнили различные задания, использую базовые команды и посторойки графиков с помощью библиотеки seaborn.
 Ссылка на данную работу: https://github.com/Maksim-analist/project/blob/main/project_3.ipynb
 
-4. В данной работе проводили A/B тестирование.
+4: В данной работе проводили A/B тестирование.
 Ссылка на данную работу:
 https://github.com/Maksim-analist/project/blob/main/project_4.ipynb
 
