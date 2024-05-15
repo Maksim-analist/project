@@ -12,5 +12,5 @@
 https://github.com/Maksim-analist/project/blob/main/project_4.ipynb
 
 5: dashboard в Redash - http://redash.lab.karpov.courses/public/dashboards/p37pdA8OdYiteUEWh3VSJ4Amla8TWMYOxTIora3T?org_slug=default
-6: dashboard в Tableau:
-https://public.tableau.com/views/karpov_courses_17101935977300/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+
+6: dashboard в Tableau - https://public.tableau.com/views/karpov_courses_17101935977300/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
